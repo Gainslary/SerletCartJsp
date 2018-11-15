@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SerletCartJsp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SerletCartJsp_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SerletCartJsp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SerletCartJsp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="J:/ChromeDownload/JSONObject所必须的6个包/json-lib-2.1-jdk15.jar" />
+          <element id="file-copy" path="J:/ChromeDownload/JSONObject所必须的6个包/ezmorph-1.0.3.jar" />
+          <element id="file-copy" path="J:/ChromeDownload/JSONObject所必须的6个包/commons-logging.jar" />
+          <element id="file-copy" path="J:/ChromeDownload/JSONObject所必须的6个包/commons-lang-2.5.jar" />
+          <element id="file-copy" path="J:/ChromeDownload/JSONObject所必须的6个包/commons-collections-3.1.jar" />
+          <element id="file-copy" path="J:/ChromeDownload/JSONObject所必须的6个包/commons-beanutils-1.7.0.jar" />
+          <element id="file-copy" path="J:/ChromeDownload/commons-beanutils-1.9.3.jar" />
+          <element id="file-copy" path="J:/ChromeDownload/ezmorph-1.0.6.jar" />
+          <element id="file-copy" path="J:/ChromeDownload/json-lib-2.4-jdk15.jar" />
+          <element id="library" level="project" name="mysql-connector-java-5.0.5-bin" />
+          <element id="file-copy" path="G:/Program Files/MySQL/MySQL Server 5.5/mysql-connector-java-5.1.44-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
